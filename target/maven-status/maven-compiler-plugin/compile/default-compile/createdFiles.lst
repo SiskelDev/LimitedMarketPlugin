@@ -1,2 +1,5 @@
 dev\siskel\limitedmarket\SignEvents.class
 dev\siskel\limitedmarket\LimitedMarket.class
+dev\siskel\limitedmarket\Intenvorys\FirstPage.class
+dev\siskel\limitedmarket\VaultItemManagement.class
+dev\siskel\limitedmarket\Intenvorys\Events.class
